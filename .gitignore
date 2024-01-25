@@ -1,3 +1,8 @@
 # Node.js
 node_modules/
 
+# Ignore Tailwind CSS configuration file
+tailwind.config.js
+
+# Ignore PostCSS configuration file
+postcss.config.js
